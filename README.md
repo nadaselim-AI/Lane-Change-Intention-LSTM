@@ -1,5 +1,3 @@
-# Lane-Change-Intention-LSTM
-Encoder-Decoder LSTM for predicting lane change intentions of surrounding vehicles using NGSIM highway trajectory data — 85.3% accuracy
 # Lane Change Intention Identification Using Encoder-Decoder LSTM
 
 ## Overview
