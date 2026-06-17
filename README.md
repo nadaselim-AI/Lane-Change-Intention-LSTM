@@ -134,5 +134,3 @@ python LSTM_TEST.py
 Nada Selim — Computer Vision & ML Engineer  
 [LinkedIn](https://www.linkedin.com/in/nada-selim-phd-student-a053b5223) | [GitHub](https://github.com/nadaselim-AI)
  
-Nada Selim — Computer Vision & ML Engineer  
-[LinkedIn](https://www.linkedin.com/in/nada-selim-phd-student-a053b5223) | [GitHub](https://github.com/nadaselim-AI)
